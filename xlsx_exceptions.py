@@ -1,0 +1,2 @@
+class EmptyNameException(Exception):
+    pass
